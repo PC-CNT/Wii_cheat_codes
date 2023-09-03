@@ -2,10 +2,10 @@
 RMCJ01
 マリオカートWii
 
-Instant Stop - @mdmwii
+Instant Stop【@mdmwii】
 * 0457A880 EC000672
 
-Ultimate License Unlocker - @mdmwii
+Ultimate License Unlocker【@mdmwii】
 * 48000000 809BC7A8
 * DE000000 90009380
 * 5A010000 000000AC
@@ -24,7 +24,7 @@ Ultimate License Unlocker - @mdmwii
 * E0000000 80008000
 https://youtu.be/ss18E64xTg0
 
-RapidFire Wiimote - @mdmwii
+RapidFire Wiimote【@mdmwii】
 * C21978C2 00000007
 * 39602000 7D6C0038
 * 7C0B6000 40A2001C
